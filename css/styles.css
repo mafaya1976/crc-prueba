@@ -147,6 +147,7 @@ body{
   #main-header{
     height:70px;
     line-height: 65px;
+    text-align: center;
   }
   #logo{
     width:60%;
