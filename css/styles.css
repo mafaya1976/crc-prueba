@@ -37,7 +37,7 @@ body{
 
 #logo h1{
   font-weight: bold;
-  font-size: 25px;
+  font-size: 20px;
   color: #00ff3a;
 }
 
@@ -63,7 +63,7 @@ body{
   background: #00ff3a;
 }
 #slider h2{
-  font-size: 40px;
+  font-size: 60px;
   text-align: center;
   color: white;
   line-height: 290px;
@@ -145,7 +145,7 @@ body{
 }
 @media all and (max-width:1085px){
   #main-header{
-    height:70px;
+    height:40px;
     line-height: 65px;
     text-align: center;
   }
@@ -155,6 +155,11 @@ body{
 }
 
 @media all and (max-width:999px){
+  #main-header{
+    height:40px;
+    line-height: 40px;
+    text-align: center;
+  }
   #logo{
     width: 220px;
     float: none;
@@ -169,7 +174,7 @@ body{
     height: 150px;
   }
   #slider h2 {
-    font-size: 30px;
+    font-size: 50px;
     line-height: 30px;
     margin-top: 50px;
   }
@@ -196,7 +201,7 @@ body{
 }
 @media all and (max-width:410px){
   #slider h2 {
-    font-size: 25px;
+    font-size: 30px;
     line-height: 30px;
     margin-top: 60px;
   }
